@@ -1,7 +1,7 @@
 from flask import *
 from dotenv import load_dotenv
 import os
-from postmanAPP import *
+from postmanAPP.some import *
 
 load_dotenv()
 
